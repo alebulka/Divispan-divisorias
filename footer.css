@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.contatos{
+    color: #EBEEE9;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.redes{
+    color: #EBEEE9;
+    margin-right: 200px;
+    margin-top: 55px;
+}
+.gmail{
+    max-width: 30px;
+}
+.email{
+    display: flex;
+    flex-direction: row;
+    margin-top: 6px;
+}
+.cont-text{
+    font-size: 19px;
+    margin-bottom: 9px;
+}
+.redes-text{
+    margin-bottom: 9px;
+}
+.gmail-text{
+    margin-left: 5px;
+    margin-top: 5px;
+}
